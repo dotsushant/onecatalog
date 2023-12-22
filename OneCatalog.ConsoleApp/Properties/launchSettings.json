@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "OneCatalog.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": " --command removeProduct --sku 165-rcy-650",
+      "sqlDebugging": true
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "OneCatalog.Application": {
+      "commandName": "Project"
+    }
+  }
+}
